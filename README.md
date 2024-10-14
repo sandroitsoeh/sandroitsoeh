@@ -2,9 +2,9 @@
 
 <head>
 
-<title>
+<h1> 
 mi pagina personal 
-</title>
+</h1>
 
 </head>
 
